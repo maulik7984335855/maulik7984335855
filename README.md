@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Maulik! 👋
 
-<!--
-**maulik7984335855/maulik7984335855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on **JavaScript Projects**
+- 🌱 I’m learning **Full Stack Development**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maulik7984335855&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulik7984335855&layout=compact)
+
+## 💻 Technologies & Tools
+![HTML Badge](https://img.shields.io/badge/HTML-5-orange)
+![CSS Badge](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+## 🎉 Fun Fact
+- ✨ I'm passionate about learning and building new things!
+
